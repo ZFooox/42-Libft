@@ -24,6 +24,7 @@ My libft includes a set of functions for manipulating strings, managing memory, 
 ### Data Conversion 🔄
 - **`ft_atoi`** - Converts a string to an integer.
 - **`ft_itoa`** - Converts an integer to a string.
+- **`ft_utoa`** - Converts an unsigned integer to a string.
 
 ### Utility Functions 🔧
 - **`ft_isdigit`**, **`ft_isalpha`**, **`ft_isalnum`** - Checks the type of a character (e.g., whether it's a digit, letter, etc.)
