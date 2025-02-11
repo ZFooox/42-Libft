@@ -29,6 +29,7 @@ My libft includes a set of functions for manipulating strings, managing memory, 
 ### Utility Functions 🔧
 - **`ft_isdigit`**, **`ft_isalpha`**, **`ft_isalnum`** - Checks the type of a character (e.g., whether it's a digit, letter, etc.)
 - **`ft_strchr`**, **`ft_strrchr`** - Searches for a character in a string.
+- **`ft_free_array`** - To free an array.
 
 ## Project Goals 🎯
 
