@@ -6,12 +6,12 @@
 /*   By: jocroon <jocroon@student.s19.be>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/11 14:05:45 by jocroon           #+#    #+#             */
-/*   Updated: 2025/02/11 14:09:17 by jocroon          ###   ########.fr       */
+/*   Updated: 2025/02/11 14:19:35 by jocroon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-//to free an array
+//to free a whole array
 void	ft_free_array(char *array[])
 {
 	int	i;
