@@ -6,7 +6,7 @@
 #    By: jocroon <jocroon@student.s19.be>           +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/14 11:02:23 by jocroon           #+#    #+#              #
-#    Updated: 2024/11/12 12:23:10 by jocroon          ###   ########.fr        #
+#    Updated: 2025/02/11 14:10:15 by jocroon          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -46,7 +46,8 @@ SOURCES =	ft_atoi.c				\
 			ft_toupper.c			\
 			ft_int_len.c			\
 			ft_unsigned_int_len.c	\
-			ft_utoa.c				
+			ft_utoa.c				\
+			ft_free_array.c	
 INCLUDES = .
 OBJECTS = $(SOURCES:%.c=%.o)
 NAME = libft.a

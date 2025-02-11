@@ -6,7 +6,7 @@
 /*   By: jocroon <jocroon@student.s19.be>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/07 10:58:06 by jocroon           #+#    #+#             */
-/*   Updated: 2024/11/12 12:19:09 by jocroon          ###   ########.fr       */
+/*   Updated: 2025/02/11 14:09:36 by jocroon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,4 +61,5 @@ void	ft_putnbr_fd(int n, int fd);
 int		ft_int_len(int nbr);
 int		ft_unsigned_int_len(unsigned int nbr);
 char	*ft_utoa(unsigned int nbr);
+void	ft_free_array(char *array[]);
 #endif
